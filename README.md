@@ -1,4 +1,5 @@
 node-knx
 ========
 
-Reservation future project.
+Reserved for future project, currently private.
+
